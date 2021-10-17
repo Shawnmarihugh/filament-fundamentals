@@ -1,0 +1,79 @@
+body {
+  margin: auto;
+  background-color: #E9ECEF;
+}
+
+h1 {
+  color: black;
+}
+
+.poly1 {
+  /* pallet#1 */
+  /*
+  color: #F0EBCC;
+  color: #3D84B8;
+  color: #344FA1;
+  color: #3F3697;
+  */
+  /* pallet#2 */
+  /*
+  color: #F4F9F9;
+  color: #CCF2F4;
+  color: #A4EBF3;
+  color: #AAAAAA;
+  background-color: #17A2B8;
+
+   */
+}
+
+.feature-box {
+  /* border-radius: 15px; */
+  padding-bottom: 20px;
+  margin: 10px 10px;
+}
+
+.container-fluid2 {
+  margin: 5%;
+}
+
+.left-img {
+  position: relative;
+  width: auto;
+  height: 100%;
+}
+
+.left-top {
+  margin-bottom: 145px;
+}
+
+.left-bottom {}
+
+.right-img {
+  position: relative;
+  width: auto;
+  height: 100%;
+}
+
+.card-panel {
+  display: block;
+  position: relative;
+  width: 50%;
+  height: 100%;
+}
+
+.footer {
+  margin: auto;
+}
+
+/* use percents to size images relative to parent container */
+/* labeled as: side classes will take on styling (colors/fonts) classes labelled
+as content (images and text) */
+/* .left-card {
+  background-color: #3D84B8;
+  height: 300px;
+}
+
+.right-card {
+  background-color: #3D84B8;
+  height: 200px;
+} */
